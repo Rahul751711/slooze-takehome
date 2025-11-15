@@ -1,6 +1,6 @@
 # Slooze Commodities – Front-End Take-Home Challenge
 
-![Slooze Login](https://i.imgur.com/4qK8vLm.png)
+![Slooze Login Preview](https://raw.githubusercontent.com/YOUR-USERNAME/slooze-takehome/main/image.png)
 
 ## Live Demo
 [https://YOUR-USERNAME.github.io/slooze-takehome/](https://YOUR-USERNAME.github.io/slooze-takehome/)
@@ -17,9 +17,13 @@
 - Pure HTML, CSS, JS (no frameworks)
 
 ## Login Credentials
-| Role | Email | Password |
-|------|-------|----------|
-| Manager | `manager@slooze.com` | `manager123` |
-| Store Keeper | `keeper@slooze.com` | `keeper123` |
 
-## Folder Structure
+| Role         | Email                  | Password     |
+|--------------|------------------------|--------------|
+| Manager      | `manager@slooze.com`   | `manager123` |
+| Store Keeper | `keeper@slooze.com`    | `keeper123`  |
+
+---
+
+**Thank you for the opportunity!**  
+Ready for the next round.
